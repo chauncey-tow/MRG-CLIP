@@ -1,0 +1,1 @@
+nohup python -u main.py --c config/iu_xray/conf.json > train_iu_xray.log 2>&1 &
